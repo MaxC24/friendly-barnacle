@@ -68,8 +68,8 @@ a:hover {
 }
 
 body {
-  background-color: #4d7880;
-  /*background-image: url('/img/background1.jpg');*/
+  /*background-color: #4d7880;*/
+  background-image: url('/img/background2.jpg');
 }
 
 /* User Dashboard */
